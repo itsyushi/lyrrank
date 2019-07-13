@@ -1,1 +1,1 @@
-i.tr {color: #00000000;background-image: linear-gradient (to right, #900, #990);-webkite-background-clip: text;}
+i.tr {background-image: linear-gradient (to right, #900, #990);-webkite-background-clip: text;-webkit-text-fill-color: transparent;}
