@@ -1,7 +1,1 @@
-i.yu {color:#00000000;background:linear-gradient(to right,#900,#990);-webkit-background-clip: text;}
-i.try { 
-    font-style: normal;
-    color: #ff0;
-}
-i.try::before { content: "["; }
-i.try::after { content: "] "; }
+i.yu {color:#00000000;background:linear-gradient(right,#900,#990);-webkit-background-clip: text;}
